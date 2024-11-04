@@ -118,7 +118,7 @@ nav ul li a:hover::after {
     justify-content: space-between;
     align-items: center;
     padding: 50px;
-    background-image: url('./images/bridge-land-img-1.jpg');
+    background-image: url('bridge-land-img-1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
